@@ -1,7 +1,11 @@
 body, html {
     margin: 0;
     font-family: sans-serif;
-    background-color: lightblue;
+    /* background-color: lightblue; */
+}
+
+h1 {
+    text-align: center;
 }
 
 .content {
@@ -29,6 +33,7 @@ td {
 
 .form {
     margin-top: 20px;
+    text-align: center;
 }
 
 #content {
